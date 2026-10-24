@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/banner.svg" alt="Firelight" width="100%"></p>
+<p align="center"><img src="./assets/banner.png" alt="Firelight" width="100%"></p>
 
 A full-screen fire simulation to sit and watch. Heat rises, swirls and cools into flickering flames, logs glow and crack into embers, and sparks ride the air. It has a firefighter twist: tap and hold to spray water and put it out, then hold again to strike a match and relight it.
 
